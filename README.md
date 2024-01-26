@@ -11,4 +11,7 @@ El objetivo de este proyecto fue construir una herramienta de analisis de sentim
 
 Para el desarrollo de este proyecto fueron ncesarios los siguientes pasos:
 
-1. *Data Collection*: La recoleccion de los articulos periodisticos 
+1. *Data Collection*: La recolección de los artículos periodísticos se realizó mediante *web scraping*. Las herramientas fueron diseñadas en un proyecto previo. 
+
+2. *Data preprocessing*: Se aplicaron tecnicas de Procesamiento de Lenguaje Natural a los articulos recolectados fuero
+
