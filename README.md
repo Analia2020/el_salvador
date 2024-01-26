@@ -22,5 +22,9 @@ Para el desarrollo de este proyecto fueron ncesarios los siguientes pasos:
 
 ## Requerimientos (*Requirements*)
 
+## Correr localmente la *web app*
+
+## Agradecimientos
+
 
 
