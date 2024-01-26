@@ -17,7 +17,10 @@ Para el desarrollo de este proyecto fueron ncesarios los siguientes pasos:
 
 3. *Model development & Evaluation*: Para el análisis de sentimiento se probaron diferentes modelos para analisis de sentimientos en español: Pysentimiento, BERT, Sentiment_analysis_spanish. Luego del analisis inicial se seleccionó el modelo pre-entreado BERT en español.
 
-4. *Streamlit Integration*: 
+4. *Streamlit Integration*: Se utilizó el *framework de Streamlit* para crear una interfase de usuario para el Analisis de Sentimiento de las Noticias. 
+
+
+## Requerimientos (*Requeriments*)
 
 
 
