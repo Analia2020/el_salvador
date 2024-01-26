@@ -5,7 +5,7 @@ Este proyecto es la continuación de “Recopilación contenido mediático en el
 Se puede acceder a la app en: https://sentimiento-noticias.streamlit.app/
 
 
-## Descripcion del proyecto
+## Descripción del proyecto
 
 El objetivo de este proyecto fue construir una herramienta de analisis de sentimiento de noticias en español. 
 
@@ -23,6 +23,8 @@ Para el desarrollo de este proyecto fueron ncesarios los siguientes pasos:
 ## Requerimientos (*Requirements*)
 
 ## Correr localmente la *web app*
+
+
 
 ## Agradecimientos
 
