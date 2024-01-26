@@ -20,7 +20,7 @@ Para el desarrollo de este proyecto fueron ncesarios los siguientes pasos:
 4. *Streamlit Integration*: Se utilizó el *framework de Streamlit* para crear una interfase de usuario para el Analisis de Sentimiento de las Noticias. 
 
 
-## Requerimientos (*Requeriments*)
+## Requerimientos (*Requirements*)
 
 
 
