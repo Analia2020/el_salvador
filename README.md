@@ -7,4 +7,8 @@ Se puede acceder a la app en: https://sentimiento-noticias.streamlit.app/
 
 ## Descripcion del proyecto
 
-El objetivo de este proyecto fue construir una herramienta
+El objetivo de este proyecto fue construir una herramienta de analisis de sentimiento de noticias en español. 
+
+Para el desarrollo de este proyecto fueron ncesarios los siguientes pasos:
+
+1. *Data Collection*: La recoleccion de los articulos periodisticos 
